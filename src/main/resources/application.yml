@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: "SpringWebApp"
+server:
+  servlet:
+    context-path: /springboot
+  port: 10000
